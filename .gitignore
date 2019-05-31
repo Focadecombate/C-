@@ -1,3 +1,6 @@
-
+tempCodeRunnerFile.exe
 tempCodeRunnerFile.cpp
 tempCodeRunnerFile.cpp
+*.exe
+*.ipch
+*.json
